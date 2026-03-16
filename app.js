@@ -1,3 +1,3 @@
-console.log("add app js")
+console.log("welcome to online store")
 console.log("add feature")
 
