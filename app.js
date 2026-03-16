@@ -1,3 +1,3 @@
-console.log("add app js")
+console.log("wellcome to app")
 console.log("add feature")
 
